@@ -1,0 +1,11 @@
+PRODUCTO    / USUARIO / FECHA /
+medialunas   ludmila   12/03/26
+pan          evely     12/03/26
+masitas      thiago    12/03/26
+cuernitos    adelfa    14/03/26
+sanguches    carlos    14/03/26
+pan          juan      14/03/26
+galleta      pepe      14/03/26
+medialunas   juana     18/03/26
+sanguches    sergio    18/03/26
+masitas      camila    18/03/26
