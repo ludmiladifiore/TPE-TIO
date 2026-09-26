@@ -10,3 +10,6 @@
           *bizcochitos
           *tarta de coco volvio
           *sacramento
+          *sanguches
+          *galleta
+
