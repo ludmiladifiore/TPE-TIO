@@ -1,5 +1,4 @@
 PRODUCTO    / USUARIO / FECHA /
-medialunas   ludmila   12/03/26
 pan          evely     12/03/26
 masitas      thiago    12/03/26
 cuernitos    adelfa    14/03/26
