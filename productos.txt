@@ -8,4 +8,7 @@
           *boila de fraile
           *churros
           *bizcochitos
+          *sanguches
+          *galleta
+
           
