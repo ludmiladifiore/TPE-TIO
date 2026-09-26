@@ -7,4 +7,3 @@ pan          juan      14/03/26
 galleta      pepe      14/03/26
 medialunas   juana     18/03/26
 sanguches    sergio    18/03/26
-masitas      camila    19/03/26
