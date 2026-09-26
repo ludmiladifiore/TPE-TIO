@@ -12,5 +12,8 @@
 |YANINA|DIAZ|2262449988|
 |TATIANA|LORER|55999666|
 
+|Usuarios que consumen la mercadería|
+|-|
+
 
 
