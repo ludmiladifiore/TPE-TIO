@@ -1,0 +1,11 @@
+ productos:
+          *pan
+          *chipa
+          *medialunas
+          *tortita negra
+          *lemon pie
+          *tarta de ricota
+          *boila de fraile
+          *churros
+          *bizcochitos
+          
